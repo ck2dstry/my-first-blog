@@ -25,7 +25,9 @@ SECRET_KEY = 'q5f+h3w*_&=+&32&3*=-%ic^95%0s2ta_js6*z1=$8#3!@s&k6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'ck2dstry.pythonanywhere.com',
+]
 
 
 # Application definition
